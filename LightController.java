@@ -8,6 +8,8 @@ public class LightController {
 	String url = "http://10.181.25.128/api/" + user + "/";
 	String charset = "UTF-8";
 	
+	//comment
+	
 	/*
 	 * Gets the state of all the lights.
 	 */
